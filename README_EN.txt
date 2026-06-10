@@ -28,5 +28,11 @@ Components bought straight from trusted friends in China :)
 PROJECT FILES
 ======================================================
 *stacker.c
+*display.h
+*display.c
+*sound.h
+*sound.c
+*spi.h
+*spi.c
 *stacker.ino (writing in dedicated IDE was easier than in microchip studio)
 *gameplay.mp4
