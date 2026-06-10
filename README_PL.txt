@@ -29,11 +29,11 @@ Komponenty kupione prosto od zaufanych przyjaciół z Chin :)
 PLIKI PROJEKTU
 ======================================================
 * stacker.c
-*display.h
-*display.c
-*sound.h
-*sound.c
-*spi.h
-*spi.c
+* display.h
+* display.c
+* sound.h
+* sound.c
+* spi.h
+* spi.c
 * stacker.ino (pisanie w dedykowanym IDE było łatwiejsze niż w Microchip Studio)
 * gameplay.mp4
